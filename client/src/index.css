@@ -1,0 +1,38 @@
+
+body {
+  margin: 0;
+    padding: 0;
+    height: 100%;
+ 
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+  background:#E3F2FD;
+  font-family: "Ubuntu";
+
+
+
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+html {
+height: 100%;
+width: 100%;
+margin:0;
+ 
+}
+#root {
+  height: 100%;
+  
+
+}
+
+
+
+
+
+
+
